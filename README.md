@@ -5,6 +5,3 @@
 [![Wongsakorn GitHub stats](https://github-readme-stats.vercel.app/api?username=wongsakorn-s&show_icons=true&theme=tokyonight)](https://github.com/wongsakorn-s)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongsakorn-s&layout=compact)](https://github.com/wongsakorn-s)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wongsakorn-s" alt="wongsakorn-s" /></a></p>
-
