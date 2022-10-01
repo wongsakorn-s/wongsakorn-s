@@ -90,6 +90,6 @@
 
 <h2 align="left">Statistical Data:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wongsakorn-s&show_icons=true&locale=en&layout=compact" alt="wongsakorn-s"/></p><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wongsakorn-s&show_icons=true&locale=en" alt="wongsakorn-s" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wongsakorn-s&show_icons=true&locale=en&layout=compact" alt="wongsakorn-s"/></p><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wongsakorn-s&show_icons=true&locale=en" alt="wongsakorn-s" /></p><br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wongsakorn-s&" alt="wongsakorn-s" /></p>
