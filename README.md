@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wongsakorn-s" alt="wongsakorn-s" /></a> </p>
 
-- 🌱 I’m currently learning **about essential skills for Data Analysts**
+- 🌱 I’m currently learning about essential skills for Data Analysts
 
-- 📫 How to reach me **wong.saengsurasak@gmail.com**
+- 📫 How to reach me: **wong.saengsurasak@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEbD8paWeA/adPRJcwedoBv9udBKohKFQ/edit?utm_content=DAEbD8paWeA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAEbD8paWeA/adPRJcwedoBv9udBKohKFQ/edit?utm_content=DAEbD8paWeA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-- ⚡ Fun fact **I think I am a curious person**
+- 📄 Know about my experiences: **[Resume](https://www.canva.com/design/DAEbD8paWeA/adPRJcwedoBv9udBKohKFQ/edit?utm_content=DAEbD8paWeA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
