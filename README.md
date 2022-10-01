@@ -91,7 +91,5 @@
 <h2 align="left">Statistical Data:</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wongsakorn-s&show_icons=true&locale=en&layout=compact" alt="wongsakorn-s"/></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wongsakorn-s&show_icons=true&locale=en" alt="wongsakorn-s" /></p>
-<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wongsakorn-s&show_icons=true&locale=en" alt="wongsakorn-s" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wongsakorn-s&" alt="wongsakorn-s" /></p>
