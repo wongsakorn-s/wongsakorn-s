@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wongsakorn Saengsurasak</h1>
-<h3 align="center">I'm passionate Data Analyst from Thailand</h3>
+<h3 align="center">I'm passionate Software Developer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wongsakorn-s&label=Profile%20views&color=0e75b6&style=flat" alt="wongsakorn-s" /> </p>
 
@@ -9,11 +9,10 @@
 
 - 🎓 I'm Junior student 3rd year at **SIT KMUTT**
 
-- 🌱 I’m currently learning about essential skills for Data Analysts
+- 🌱 I’m currently learning about essential skills for DevOps, Front-End and Back-End Developer
 
 - 📫 How to reach me: **wong.saengsurasak@gmail.com**
 
-- 📄 Know about my experiences: **[Resume](https://www.canva.com/design/DAEbD8paWeA/adPRJcwedoBv9udBKohKFQ/edit?utm_content=DAEbD8paWeA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
