@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wongsakorn-s&label=Profile%20views&color=0e75b6&style=flat" alt="wongsakorn-s" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=wongsakorn-s&theme=onedark" alt="wongsakorn-s" /> 
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=wongsakorn-s" alt="wongsakorn-s" /> </p>
 
 <h2 align="left">About Me</h2>
 
