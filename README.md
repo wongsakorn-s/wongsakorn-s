@@ -8,8 +8,6 @@
 
 - 🎓 I'm Junior student 3rd year at **SIT KMUTT**
 
-- 🌱 I’m currently learning about essential skills for DevOps, Front-End and Back-End Developer
-
 - 📫 How to reach me: **wong.saengsurasak@gmail.com**
 
 
