@@ -6,7 +6,7 @@
 
 <h2 align="left">About Me</h2>
 
-- 🎓 I'm Junior student 3rd year at **SIT KMUTT**
+- 🎓 I'm Junior student 4th year at **SIT KMUTT**
 
 - 📫 How to reach me: **wong.saengsurasak@gmail.com**
 
