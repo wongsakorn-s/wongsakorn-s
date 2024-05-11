@@ -2,7 +2,7 @@
 
 <h2 align="left">About Me</h2>
 
-- 🎓 I'm Junior student 4th year at **SIT KMUTT**
+- 🎓 I am an Information Technology undergraduate student at SIT KMUTT with expertise in software development, proficient in various programming languages such as Python, Java, and  JavaScript, as well as skills in data analysis, database management, and data visualization tools like SQL, Tableau, and Power BI.
 
 - 📫 How to reach me: **wong.saengsurasak@gmail.com**
 
